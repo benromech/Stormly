@@ -16,4 +16,5 @@ Here we have project screenshot :
 ![screenshot](screenshot.jpg)
 
 Website status:
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6123694f-3d6b-42da-9528-41da1828cade/deploy-status)](https://app.netlify.com/sites/stormly/deploys)
